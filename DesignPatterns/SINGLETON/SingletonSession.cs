@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TestDemo.SINGLETON
+namespace DesignPatterns.SINGLETON
 {
     public sealed class SingletonSession
     {

@@ -1,12 +1,9 @@
-﻿
-using ConsoleApplication1;
-using System;
-using TestDemo;
-using TestDemo.ADAPTER;
-using TestDemo.FACTORY;
-using TestDemo.OBSERVER;
-using TestDemo.SINGLETON;
-using static TestDemo.SINGLETON.SealedSingleton;
+﻿using System;
+using DesignPatterns.ADAPTER;
+using DesignPatterns.FACTORY;
+using DesignPatterns.OBSERVER;
+using DesignPatterns.SINGLETON;
+using static DesignPatterns.SINGLETON.SealedSingleton;
 
 namespace DesignPatterns
 {

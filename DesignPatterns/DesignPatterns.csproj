@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="ADAPTER\ITarget.cs" />
     <Compile Include="FACTORY\IFactory.cs" />
+    <Compile Include="FACTORY\IGet.cs" />
     <Compile Include="OBSERVER\ISubject.cs" />
     <Compile Include="SINGLETON\LazySingleton.cs" />
     <Compile Include="Program.cs" />

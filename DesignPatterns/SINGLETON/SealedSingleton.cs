@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestDemo.SINGLETON
+namespace DesignPatterns.SINGLETON
 {
     public class SealedSingleton
     {

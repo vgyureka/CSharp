@@ -1,4 +1,4 @@
-﻿namespace TestDemo.ADAPTER
+﻿namespace DesignPatterns.ADAPTER
 {
     public interface ITarget
     {

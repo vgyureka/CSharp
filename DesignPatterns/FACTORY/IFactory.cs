@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TestDemo.FACTORY
+namespace DesignPatterns.FACTORY
 {
     /// <summary>
     /// The Factory Method pattern is a design pattern used to define a runtime interface for creating an object. 

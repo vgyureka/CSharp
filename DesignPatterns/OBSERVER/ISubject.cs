@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TestDemo.OBSERVER
+namespace DesignPatterns.OBSERVER
 {
     internal interface ISubject
     {

@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp", "CSharp\CSharp.csproj", "{95F6B997-9805-4796-A62C-A976C7D3510E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "TestDemo\DesignPatterns.csproj", "{00AC8D5E-0BED-43D0-B7CE-220C6FA7AB21}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{00AC8D5E-0BED-43D0-B7CE-220C6FA7AB21}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp1", "Csharp1\Csharp1.csproj", "{559D272A-EDD1-4312-9838-CD1A152EFE1F}"
 EndProject

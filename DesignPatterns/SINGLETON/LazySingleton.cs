@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication1
+namespace DesignPatterns.SINGLETON
 {
     /// <summary>
     /// 1. By default, Lazy<T> objects are thread-safe
