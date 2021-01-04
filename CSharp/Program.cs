@@ -7,6 +7,7 @@ using System.Configuration;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 using Unity;
 
 namespace ConsoleApplication1
@@ -83,9 +84,6 @@ namespace ConsoleApplication1
             //}
 
             LinqDemo();
-            DelegateDemo.PredicateDemo();
-            DelegateDemo.ActionDemo();
-            DelegateDemo.FuncDemo();
 
             //  Test1 obj = new Test1("");
             //obj.func2();
@@ -145,17 +143,6 @@ namespace ConsoleApplication1
             var result1 = lstCount.FirstOrDefault();
             var result3 = lstCount.SingleOrDefault(x => x < 20);
             var result2 = lstCount.Single(x => x > 10);
-
-
-        }
-
-        private static void DelegatesFunc()
-        {
-            DelegatesDemo obj = new DelegatesDemo();
-            TestDel td = obj.AddNums;
-            td(1, 2, 3);
-            SayDel sd = DelegatesDemo.SayHello;
-            sd("VISHU");
 
 
         }

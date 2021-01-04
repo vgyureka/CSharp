@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp1", "Csharp1\Csharp1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_Programs", "Csharp_Programs\Csharp_Programs.csproj", "{65D338A2-EE7D-40E1-A32B-97AB9BC8E663}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{1C520A56-AA0D-4624-A997-A6C2D9694363}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{65D338A2-EE7D-40E1-A32B-97AB9BC8E663}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65D338A2-EE7D-40E1-A32B-97AB9BC8E663}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65D338A2-EE7D-40E1-A32B-97AB9BC8E663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C520A56-AA0D-4624-A997-A6C2D9694363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C520A56-AA0D-4624-A997-A6C2D9694363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C520A56-AA0D-4624-A997-A6C2D9694363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C520A56-AA0D-4624-A997-A6C2D9694363}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

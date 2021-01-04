@@ -40,6 +40,7 @@
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -76,10 +77,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DelegatesDemo.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="Extensions.cs" />
-    <Compile Include="FuncDelegate.cs" />
     <Compile Include="IDBAccess.cs" />
     <Compile Include="IenumeratorDemo.cs" />
     <Compile Include="IGet.cs" />
